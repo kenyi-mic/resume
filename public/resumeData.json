@@ -1,0 +1,132 @@
+{
+  "main": {
+    "name": "Michael Henry",
+    "occupation": "Junior Developer",
+    "description": "It's good to code with purpose",
+    "image": "profilepic.jpg",
+    "bio": "Hi yoo! Michael right here! I'm a Junior web developer. I've been codding for 12 months now and getting along with some cool builds, I have youtube channel which is aimed at creating great community of developers to share their knowedge and creativity together. As developers of this new century I notice that we need unity and coperation to make us impact every one across the globe that is why I started hyper dev to help us reach the potential. I will be grateful to change even only one life at a time in my carrer as a developer.",
+    "contactmessage": "Get in touch with me",
+    "email": "michaelkenyi13@gmail.com",
+    "phone": "+8801824035899",
+    "address": {
+      "street": "857 C & B",
+      "city": "Barisal",
+      "district": "Barisal",
+      "zip": "18201"
+    },
+    "website": "https://kenyi-mic.github.io/portifolio/com/",
+    "resumedownload": "https://drive.google.com/file/d/1XnM-3pXPd8on2MR5jQhPavYlTaJAYx8R/view?usp=sharing",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCUjSDouIznnTlxpVPJB2L8w",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/kenyi.olimpio.1",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/michael-kenyi-6316a1143/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/elmickyprince/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/kenyi-mic",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "University of global village(UGV) - BD",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduate": "July 2023",
+        "description": "Comming soon!"
+      }
+    ],
+    "work": [
+      {
+        "company": "University of global village(UGV)",
+        "title": "Student",
+        "years": "June 2019 - Present",
+        "description": "Studying computer science and egineering, more is on the way and I love woking on coding projects"
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "40%"
+      },
+      {
+        "name": "Python",
+        "level": "65%"
+      },
+      {
+        "name": "Django",
+        "level": "55%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "47.3%"
+      },
+      {
+        "name": "Web Development",
+        "level": "77%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone (React JS)",
+        "category": "",
+        "image": "Amazon-clone.jpg",
+        "url": "https://clone-9592b.web.app/"
+      },
+      {
+        "title": "Responsive portfolio (HTML, CSS, JS)",
+        "category": "",
+        "image": "responsive-web.jpg",
+        "url": "https://kenyi-mic.github.io/portfolio-web/site/"
+      },
+      {
+        "title": "David Chu's China Bistro clone (HTML, CSS, JS)",
+        "category": "",
+        "image": "resturant.jpg",
+        "url": "https://kenyi-mic.github.io/Modal-5-Solution/assignment5-solution-starter/"
+      },
+      {
+        "title": "LinkedIn Clone (React JS)",
+        "category": "",
+        "image": "linkedin.jpg",
+        "url": "https://youtu.be/QaYts9sPmcY"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Coming soon!",
+        "user": "Unknown"
+      },
+      {
+        "text": "Coming soon!",
+        "user": "Unknown"
+      }
+    ]
+  }
+}
