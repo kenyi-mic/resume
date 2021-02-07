@@ -51,8 +51,15 @@
         "school": "University of global village(UGV) - BD",
         "degree": "Bachelor's Degree, Computer Science",
         "graduate": "July 2023",
-        "description": "Comming soon!"
+        "description": "Coming soon!"
+      },
+      {
+        "school": "St thomas secondary school - SSD",
+        "degree": "Pure Science(Physics, Chemistry, Biology & Mathematics",
+        "graduate": "Feb 2018",
+        "description": "It was great being an alumini of St Thomas, I graduated in flying colors!"
       }
+
     ],
     "work": [
       {
@@ -110,10 +117,10 @@
         "url": "https://kenyi-mic.github.io/Modal-5-Solution/assignment5-solution-starter/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
+        "title": "Netflix clone (React JS)",
         "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "image": "day-3.jpg",
+        "url": "https://netflix-build-5ff32.web.app/"
       }
     ]
   },
