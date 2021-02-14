@@ -1,5 +1,5 @@
 import React from "react";
-import AOS from 'aos';
+import AOS from "aos";
 
 const About = ({ data }) => {
   if (data) {
@@ -15,22 +15,29 @@ const About = ({ data }) => {
     var resumeDownload = data.resumedownload;
 
     AOS.init({
-      duration : 2000
-    })
-    
+      duration: 2000,
+    });
   }
 
   return (
     <section id="about">
       <div className="row">
-        <div className="three columns" data-aos="fade-right" data-aos-delay="300">
+        <div
+          className="three columns"
+          data-aos="fade-right"
+          data-aos-delay="300"
+        >
           <img
             className="profile-pic"
             src={profilepic}
             alt="Michael's's Profile Pic"
           />
         </div>
-        <div className="nine columns main-col" data-aos="fade-left" data-aos-delay="600">
+        <div
+          className="nine columns main-col"
+          data-aos="fade-left"
+          data-aos-delay="600"
+        >
           <h2>About Me</h2>
 
           <p>{bio}</p>
@@ -53,7 +60,7 @@ const About = ({ data }) => {
             </div>
             <div className="columns download">
               <p>
-                <a href={resumeDownload} className="button">
+                <a href={resumeDownload} className="button" target="_blank">
                   <i className="fa fa-download"></i>Download Resume
                 </a>
               </p>

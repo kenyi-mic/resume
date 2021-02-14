@@ -1,7 +1,6 @@
 import React from "react";
 import TypeWriter from "react-typewriter";
 
-
 const Header = ({ data }) => {
   if (data) {
     var name = data.name;
