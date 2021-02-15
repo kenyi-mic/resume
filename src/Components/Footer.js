@@ -5,7 +5,7 @@ const Footer = ({ data }) => {
     var networks = data.social.map(function (network) {
       return (
         <li key={network.name}>
-          <a href={network.url}>
+          <a href={network.url} target="_blank" rel="noreferrer">
             <i className={network.className}></i>
           </a>
         </li>
@@ -14,7 +14,7 @@ const Footer = ({ data }) => {
   }
 
   return (
-    <footer >
+    <footer>
       <div className="row">
         <div className="twelve columns">
           <ul className="social-links">{networks}</ul>
@@ -22,7 +22,12 @@ const Footer = ({ data }) => {
           <ul className="copyright">
             <li>
               Made by{" "}
-              <a title="HYPER" href="https://kenyi-mic.github.io/portifolio/com/">
+              <a
+                title="HYPER"
+                href="https://kenyi-mic.github.io/portifolio/com/"
+                target="_blank"
+                rel="noreferrer"
+              >
                 MICHAEL <span>&#169;</span> 2021
               </a>
             </li>
