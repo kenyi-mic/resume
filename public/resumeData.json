@@ -2,8 +2,8 @@
   "main": {
     "name": "Michael Henry",
     "occupation": "Junior Developer",
-    "description": "It's good to code with purpose",
-    "image": "profilepic.jpg",
+    "description": "I love building cool stuffs 🤍",
+    "image": "profile1.png",
     "bio": "Hi yoo! Michael right here! I'm a Junior web developer. I've been codding for 12 months now and getting along with some cool builds, I have youtube channel which is aimed at creating great community of developers to share their knowedge and creativity together. As developers of this new century I notice that we need unity and coperation to make us impact every one across the globe that is why I started hyper dev to help us reach the potential. I will be grateful to change even only one life at a time in my carrer as a developer.",
     "contactmessage": "Get in touch with me",
     "email": "michaelkenyi13@gmail.com",
@@ -72,11 +72,11 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "40%"
+        "level": "45%"
       },
       {
         "name": "Python",
-        "level": "65%"
+        "level": "63%"
       },
       {
         "name": "Django",
@@ -88,11 +88,11 @@
       },
       {
         "name": "JavaScript",
-        "level": "47.3%"
+        "level": "71.3%"
       },
       {
         "name": "Web Development",
-        "level": "77%"
+        "level": "78.5%"
       }
     ]
   },
@@ -127,12 +127,12 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Coming soon!",
-        "user": "Unknown"
+        "text": "Michael is a cool guy, in a few years working with him I realise his potential in doing great things. I love him within my team always. ",
+        "user": "Hadia Bendita"
       },
       {
-        "text": "Coming soon!",
-        "user": "Unknown"
+        "text": "This is the best spirit we need every student to have, Michael is always persistent in what he want and he is incredible in learning and applying new skills you should definetly learn from him.",
+        "user": "Jhumon Chundhury"
       }
     ]
   }
