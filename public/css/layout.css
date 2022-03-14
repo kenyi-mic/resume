@@ -71,7 +71,7 @@ header .banner-text h1 {
   letter-spacing: -2px;
   margin: 0 auto 18px auto;
   text-shadow: 0px 1px 3px rgba(0, 0, 0, 0.8);
-  font-family: "Lobster", cursive;
+  font-family: "Lobster", "Sansita Swashed";
 }
 header .banner-text h3 {
   font: 18px/1.9em "librebaskerville-regular", serif;
@@ -143,6 +143,7 @@ header .scrolldown a:hover {
   padding: 0;
   border: none;
   outline: none;
+  z-index: 5;
 }
 
 /* nav-wrap */
@@ -490,7 +491,7 @@ ul#nav li.current a {
   -o-transition: all 0.3s ease-in-out;
   -ms-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
-  z-index: 5;
+  z-index: 0;
   box-shadow: 5px 5px 5px #0005;
   border-radius: 5px;
 }
@@ -556,6 +557,23 @@ ul#nav li.current a {
   font: 12px/18px "opensans-light", sans-serif;
   color: #c6c7c7;
   margin-bottom: 0;
+}
+
+/*added for scroll functionality and is only for large screens*/
+@media (min-width: 750px) {
+  #portfolio-wrapper {
+    display: flex;
+    overflow-y: hidden;
+    overflow-x: scroll;
+    padding: 30px;
+  }
+  #portfolio-wrapper:hover {
+    transform: scale(1.2);
+  }
+
+  #portfolio-wrapper {
+    overflow-x: hidden;
+  }
 }
 
 /* on hover */
@@ -714,7 +732,7 @@ call-to-action .button {
   min-height: 200px;
   width: 100%;
   overflow: hidden;
-  z-index: 5;
+  z-index: 0;
 }
 #testimonials .text-container {
   padding-top: 96px;

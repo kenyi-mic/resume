@@ -72,37 +72,51 @@
     "skills": [
       {
         "name": "ReactJs",
-        "level": "45%"
+        "level": "70%"
       },
       {
         "name": "Python",
-        "level": "63%"
+        "level": "60%"
       },
       {
         "name": "Django",
-        "level": "55%"
-      },
-      {
-        "name": "Git",
         "level": "50%"
       },
       {
+        "name": "Raw NodeJs",
+        "level": "70%"
+      },
+      {
+        "name":"ExpressJs",
+        "level": "74%"
+      },
+      {
+        "name":"Mongo DB",
+        "level": "65%"
+
+      },
+      {
+        "name": "NextJs",
+        "level": "30%"
+
+      },
+      {
         "name": "JavaScript",
-        "level": "71.3%"
+        "level": "79.3%"
       },
       {
         "name": "Web Development",
-        "level": "78.5%"
+        "level": "85.5%"
       }
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Amazon Clone (React JS)",
+        "title": "Amazon-2.0 Clone (React JS)",
         "category": "",
-        "image": "Amazon-clone.jpg",
-        "url": "https://clone-9592b.web.app/"
+        "image": "amazon-clone.png",
+        "url": "https://amazon-clone-2-0-ashen.vercel.app/"
       },
       {
         "title": "Responsive portfolio (HTML, CSS, JS)",
@@ -121,17 +135,29 @@
         "category": "",
         "image": "day-3.jpg",
         "url": "https://netflix-build-5ff32.web.app/"
+      },
+      {
+        "title": "Recipe Search(React JS)",
+        "category": "ReactJs apps",
+        "image": "recipeSearch.png",
+        "url": "https://netflix-build-5ff32.web.app/"
+      },
+      {
+        "title": "Personal Portifolio",
+        "category":"ReactJs apps",
+        "image":"screenShot.png",
+        "url": "https://michael-kenyi.herokuapp.com/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Michael is a cool guy, in a few years working with him I realise his potential in doing great things. I love him within my team always. ",
+        "text": "Michael is a cool guy, in a few years of working with him I realise his potential in doing great things. I appreciate his effort on bringing my company this far, and hoping to have him back. ",
         "user": "Hadia Bendita"
       },
       {
-        "text": "This is the best spirit we need every student to have, Michael is always persistent in what he want and he is incredible in learning and applying new skills you should definetly learn from him.",
+        "text": "This is the best spirit we need every student to have, Michael is always persistent in what he want and he is incredible in learning and applying new skills. You should definetly learn from him.",
         "user": "Jhumon Chundhury"
       }
     ]
